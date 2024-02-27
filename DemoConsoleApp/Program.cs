@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hallo liebe Gemeinde....");
+Console.WriteLine("Hello folks.");
 
-Console.WriteLine("und tschüss");
+Console.WriteLine("and goodbye");
